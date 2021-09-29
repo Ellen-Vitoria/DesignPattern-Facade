@@ -20,5 +20,6 @@ public class Combo {
     //Mostrando items do Combo através de PratoPrincipal
     public void mostrarCombo() {
         prato.mostrarItens();
+        System.out.println("\n");
     }
 }
